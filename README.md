@@ -20,7 +20,7 @@ This project is beginner-friendly and is a great way to learn basic Python conce
 * Displays whether you **win**, **lose**, or **draw**.
 * Easy to understand and modify.
 
-## 🛠️ Technologies Used
+## 🛠️ Technologies Used:-
 
 * Python 3
 * `random` module
