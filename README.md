@@ -12,7 +12,7 @@ This project is beginner-friendly and is a great way to learn basic Python conce
 * Conditional statements (`if`, `elif`, `else`)
 * Random module
 
-## 🚀 Features
+## 🚀 Features:-
 
 * Play Rock, Paper, or Scissors against the computer.
 * Computer chooses randomly.
