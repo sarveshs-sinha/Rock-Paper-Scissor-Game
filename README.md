@@ -1,6 +1,6 @@
 # Rock Paper Scissors Game (Python)
 
-## 🎮 About the Project
+## 🎮 About the Project:-
 
 This is a simple **Rock, Paper, Scissors** game made using Python. The player competes against the computer, which makes a random choice each round.
 
