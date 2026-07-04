@@ -1,6 +1,6 @@
 import random
 
-# List of choices
+# List of choicess
 choices = ["rock", "paper", "scissors"]
 
 # Computer chooses randomly
